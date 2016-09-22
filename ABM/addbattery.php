@@ -1,4 +1,4 @@
-<script>
+<script><!-- test-->
         
     $("div.content>ul#topnavi>li>a").click( function(e){
 

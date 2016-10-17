@@ -1,3 +1,4 @@
+//comment
  <div class="seperate">
  	<?php
 $servername = "localhost";
